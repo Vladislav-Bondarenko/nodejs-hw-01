@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "id": "65b111b8-62e1-415b-a14c-b643c874685c",
+    "name": "Edgar Friesen",
+    "phone": "201.991.9689 x13984",
+    "email": "Miller.Feest@hotmail.com",
+    "job": "Corporate Marketing Liaison"
+  },
+  {
+    "id": "d0d55060-1a78-4879-bd53-6b41b60d0d35",
+    "name": "Colleen Mills",
+    "phone": "919-735-2806",
+    "email": "Shad95@yahoo.com",
+    "job": "Regional Integration Designer"
+  },
+  {
+    "id": "a03743d0-9155-415e-bf6d-3593fe1e50de",
+    "name": "Miranda Emmerich",
+    "phone": "1-766-444-9824",
+    "email": "Duane_Bogisich@gmail.com",
+    "job": "Principal Optimization Orchestrator"
+  },
+  {
+    "id": "c182a67a-41dc-4961-ad52-ae8224ffaeca",
+    "name": "Santiago Bogan",
+    "phone": "341-655-3683",
+    "email": "Melisa_Lubowitz80@gmail.com",
+    "job": "Customer Implementation Architect"
+  },
+  {
+    "id": "a6a58ef7-ccb4-4e8f-ba84-32558e70e9da",
+    "name": "Vera Orn",
+    "phone": "797-388-2846",
+    "email": "Otis28@yahoo.com",
+    "job": "Lead Identity Agent"
+  }
+]
